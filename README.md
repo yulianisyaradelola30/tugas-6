@@ -1,9 +1,8 @@
-praktikum6
+# praktikum6
+# PACKAGE & MODULE
+Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:
 
-PACKAGE & MODULE
-
-Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini
-![ss1](https://user-images.githubusercontent.com/57038763/72214339-73766f80-3532-11ea-81f0-635e5a32de39.png)
+  ![ss1](https://user-images.githubusercontent.com/57038763/72214339-73766f80-3532-11ea-81f0-635e5a32de39.png)
 
 * daftar_nilai.py berisi modul untuk :
     * ubah_data
@@ -13,10 +12,10 @@ Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini
     * cetak_daftar_nilai
     * cetak_hasil_pencarian
     
- * input_nilai.py berisi modul untuk :
-     * input_data (yang meminta pengguna memasukkan data).
+* input_nilai.py berisi modul untuk :
+    * input_data (yang meminta pengguna memasukkan data).
      
-*main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
+* main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 
 * Output tambah_data
 
