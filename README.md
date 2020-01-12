@@ -18,9 +18,15 @@ Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini
      
 *main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 
--Output tambah_data
--ouput daftar nilai
--ouput ubah data
+* Output tambah_data
+![ouputtambahdata](https://user-images.githubusercontent.com/57038763/72214488-aff79a80-3535-11ea-8e21-cd87ff03e9e1.png)
+
+* ouput daftar nilai
+![ouputdaftarnilai](https://user-images.githubusercontent.com/57038763/72214490-cdc4ff80-3535-11ea-87fb-43584e5c1536.png)
+
+* ouput ubah data
+![outputubahdata](https://user-images.githubusercontent.com/57038763/72214497-ee8d5500-3535-11ea-8990-a16515c1bd31.png)
+
 -ouput cari data
 -ouput hapus data
 -ouput break
