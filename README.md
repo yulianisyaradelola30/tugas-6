@@ -48,8 +48,6 @@ Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:
 ![outputhapusdata](https://user-images.githubusercontent.com/57038763/72214563-44aec800-3537-11ea-91c6-ecd186b8e38d.png)
 
 
-
-
 * ouput break
 
 
