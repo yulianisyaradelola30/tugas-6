@@ -8,7 +8,9 @@ Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini
 
 daftar_nilai.py berisi modul untuk :
 
-tambah_data
+# outpu tambah_data
+![ouputtambahdata](https://user-images.githubusercontent.com/57038763/72214406-cdc40000-3533-11ea-8df3-a57bf56afd50.png)
+
 ubah_data
 hapus_data
 cari_data
