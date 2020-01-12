@@ -37,7 +37,11 @@ Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:
 
 ![outputubahdata](https://user-images.githubusercontent.com/57038763/72214497-ee8d5500-3535-11ea-8990-a16515c1bd31.png)
 
--ouput cari data
+* ouput cari data
+
+
+![outputcaridata](https://user-images.githubusercontent.com/57038763/72214555-05807700-3537-11ea-8b05-e67d0d27a20f.png)
+
 -ouput hapus data
 -ouput break
 
