@@ -3,6 +3,8 @@ praktikum6
 PACKAGE & MODULE
 
 Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini
+![ss1](https://user-images.githubusercontent.com/57038763/72214339-73766f80-3532-11ea-81f0-635e5a32de39.png)
+
 
 daftar_nilai.py berisi modul untuk :
 
